@@ -8,3 +8,5 @@ Tools used is Wireshark
 * Install Wireshark. 
 * Capture traffic on local network.
 * Filter HTTP traffic and analyze the packets
+
+https://youtu.be/Pa30UyF7EYY
